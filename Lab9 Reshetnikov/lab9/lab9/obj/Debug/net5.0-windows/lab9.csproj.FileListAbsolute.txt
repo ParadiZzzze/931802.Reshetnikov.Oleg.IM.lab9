@@ -1,0 +1,36 @@
+C:\Users\nikita\source\repos\lab9\lab9\obj\Debug\net5.0-windows\lab9.Form1.resources
+C:\Users\nikita\source\repos\lab9\lab9\obj\Debug\net5.0-windows\lab9.csproj.GenerateResource.cache
+C:\Users\nikita\source\repos\lab9\lab9\obj\Debug\net5.0-windows\lab9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikita\source\repos\lab9\lab9\obj\Debug\net5.0-windows\lab9.AssemblyInfoInputs.cache
+C:\Users\nikita\source\repos\lab9\lab9\obj\Debug\net5.0-windows\lab9.AssemblyInfo.cs
+C:\Users\nikita\source\repos\lab9\lab9\obj\Debug\net5.0-windows\lab9.csproj.CoreCompileInputs.cache
+C:\Users\nikita\source\repos\lab9\lab9\bin\Debug\net5.0-windows\lab9.exe
+C:\Users\nikita\source\repos\lab9\lab9\bin\Debug\net5.0-windows\lab9.deps.json
+C:\Users\nikita\source\repos\lab9\lab9\bin\Debug\net5.0-windows\lab9.runtimeconfig.json
+C:\Users\nikita\source\repos\lab9\lab9\bin\Debug\net5.0-windows\lab9.runtimeconfig.dev.json
+C:\Users\nikita\source\repos\lab9\lab9\bin\Debug\net5.0-windows\lab9.dll
+C:\Users\nikita\source\repos\lab9\lab9\bin\Debug\net5.0-windows\ref\lab9.dll
+C:\Users\nikita\source\repos\lab9\lab9\bin\Debug\net5.0-windows\lab9.pdb
+C:\Users\nikita\source\repos\lab9\lab9\obj\Debug\net5.0-windows\lab9.dll
+C:\Users\nikita\source\repos\lab9\lab9\obj\Debug\net5.0-windows\ref\lab9.dll
+C:\Users\nikita\source\repos\lab9\lab9\obj\Debug\net5.0-windows\lab9.pdb
+C:\Users\nikita\source\repos\lab9\lab9\obj\Debug\net5.0-windows\lab9.genruntimeconfig.cache
+C:\Users\nikita\source\repos\lab9\lab9\obj\Debug\net5.0-windows\lab9.csprojAssemblyReference.cache
+C:\Users\olegr\OneDrive\Рабочий стол\Statistics-main\lab9\lab9\bin\Debug\net5.0-windows\lab9.exe
+C:\Users\olegr\OneDrive\Рабочий стол\Statistics-main\lab9\lab9\bin\Debug\net5.0-windows\lab9.deps.json
+C:\Users\olegr\OneDrive\Рабочий стол\Statistics-main\lab9\lab9\bin\Debug\net5.0-windows\lab9.runtimeconfig.json
+C:\Users\olegr\OneDrive\Рабочий стол\Statistics-main\lab9\lab9\bin\Debug\net5.0-windows\lab9.runtimeconfig.dev.json
+C:\Users\olegr\OneDrive\Рабочий стол\Statistics-main\lab9\lab9\bin\Debug\net5.0-windows\lab9.dll
+C:\Users\olegr\OneDrive\Рабочий стол\Statistics-main\lab9\lab9\bin\Debug\net5.0-windows\ref\lab9.dll
+C:\Users\olegr\OneDrive\Рабочий стол\Statistics-main\lab9\lab9\bin\Debug\net5.0-windows\lab9.pdb
+C:\Users\olegr\OneDrive\Рабочий стол\Statistics-main\lab9\lab9\obj\Debug\net5.0-windows\lab9.csprojAssemblyReference.cache
+C:\Users\olegr\OneDrive\Рабочий стол\Statistics-main\lab9\lab9\obj\Debug\net5.0-windows\lab9.Form1.resources
+C:\Users\olegr\OneDrive\Рабочий стол\Statistics-main\lab9\lab9\obj\Debug\net5.0-windows\lab9.csproj.GenerateResource.cache
+C:\Users\olegr\OneDrive\Рабочий стол\Statistics-main\lab9\lab9\obj\Debug\net5.0-windows\lab9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olegr\OneDrive\Рабочий стол\Statistics-main\lab9\lab9\obj\Debug\net5.0-windows\lab9.AssemblyInfoInputs.cache
+C:\Users\olegr\OneDrive\Рабочий стол\Statistics-main\lab9\lab9\obj\Debug\net5.0-windows\lab9.AssemblyInfo.cs
+C:\Users\olegr\OneDrive\Рабочий стол\Statistics-main\lab9\lab9\obj\Debug\net5.0-windows\lab9.csproj.CoreCompileInputs.cache
+C:\Users\olegr\OneDrive\Рабочий стол\Statistics-main\lab9\lab9\obj\Debug\net5.0-windows\lab9.dll
+C:\Users\olegr\OneDrive\Рабочий стол\Statistics-main\lab9\lab9\obj\Debug\net5.0-windows\ref\lab9.dll
+C:\Users\olegr\OneDrive\Рабочий стол\Statistics-main\lab9\lab9\obj\Debug\net5.0-windows\lab9.pdb
+C:\Users\olegr\OneDrive\Рабочий стол\Statistics-main\lab9\lab9\obj\Debug\net5.0-windows\lab9.genruntimeconfig.cache
